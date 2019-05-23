@@ -49,7 +49,7 @@ print(r_resp["response"][0]["hostIp"])
 def deviceid_mac_adresses(ip):
 #returns a dictionary of device Ids and Mac addresses that has given ip
 	for items in  nif.interfaces(i)
-ddef gethostcount():
+def gethostcount():
 	count=0
 	for hosts count+1=0:
 	return count
